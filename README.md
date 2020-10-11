@@ -1,2 +1,20 @@
-# arduino-and-electronics-topics
-a list of topics I went through when I was learning Arduino and Electronics
+# Arduino & Electronics Topics
+- Prototyping
+- Solderless Breadboard
+- Circuit Board
+- Microcontroller
+- Digital and Analog Signals 
+- Transistor and Resistor
+- Series and Parallel Circuits
+- Cathode and Anode
+- Schematic Diagram
+- Servomotor
+- Module
+- Mechanism
+- Input and Output
+- Sensors
+- Baud Rate and Bandwidth
+- Interfacing
+- Electrical & Electronic Circuit Laws
+- Electronics and Robotics
+- Wireless Sensors
