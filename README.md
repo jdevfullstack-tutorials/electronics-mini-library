@@ -125,6 +125,11 @@ that is designed to be separately installed, replaced, or serviced.
 <https://whatis.techtarget.com/definition/module#:~:text=A%20module%20is%20a%20separate%20unit%20of%20software%20or%20hardware.&text=2)%20In%20computer%20hardware%20and,installed%2C%20replaced%2C%20or%20serviced.>
 
 - Mechanism
+    - In engineering, a mechanism is a device that transforms
+input forces and movement into a desired set of output
+forces and movement.
+<https://en.wikipedia.org/wiki/Mechanism_(engineering)>
+
 - Input and Output
 - Sensors
 - Baud Rate and Bandwidth
