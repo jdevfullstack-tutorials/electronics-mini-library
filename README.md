@@ -24,7 +24,23 @@ power and provides common ground points.
 <https://www.circuitspecialists.com/solderless-breadboards>
 
 - Circuit Board
+    - A circuit board is a physical piece of technology that allows
+for the assembly of electrical or data circuits on a 
+horizontal layer of material. Advances in circuit boards
+have led to new engineering and 
+manufacturing methods for these types of devices.
+<https://www.techopedia.com/definition/6478/circuit-board>
+     
 - Microcontroller
+    - A microcontroller is an integrated circuit (IC) 
+device used for controlling other portions of an electronic system,
+usually via a microprocessor unit (MPU), memory, and 
+some peripherals. These devices are optimized for embedded
+applications that require both processing functionality
+and agile, responsive interaction with digital,
+analog, or electromechanical components.
+<https://www.allaboutcircuits.com/technical-articles/what-is-a-microcontroller-introduction-component-characteristics-component/> 
+
 - Digital and Analog Signals 
 - Transistor and Resistor
 - Series and Parallel Circuits
