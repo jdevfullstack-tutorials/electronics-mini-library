@@ -119,6 +119,11 @@ of a machine with great precision.
 <https://www.sciencebuddies.org/science-fair-projects/references/introduction-to-servo-motors>
 
 - Module
+    - In computer hardware and electronics, a module is 
+a relatively compact unit in a larger device or arrangement
+that is designed to be separately installed, replaced, or serviced. 
+<https://whatis.techtarget.com/definition/module#:~:text=A%20module%20is%20a%20separate%20unit%20of%20software%20or%20hardware.&text=2)%20In%20computer%20hardware%20and,installed%2C%20replaced%2C%20or%20serviced.>
+
 - Mechanism
 - Input and Output
 - Sensors
