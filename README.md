@@ -6,16 +6,16 @@
 - [Circuit Board](#circuit-board)
 - [Microcontroller](#microcontroller)
 - [Digital And Analog Signals](#digital-and-analog-signals)
-- [Transistor and Resistor](#transistor-and-resistor)
-- [Series and Parallel Circuits](#series-and-parallel-circuits)
-- [Cathode and Anode](#cathode-and-anode)
+- [Transistor And Resistor](#transistor-and-resistor)
+- [Series And Parallel Circuits](#series-and-parallel-circuits)
+- [Cathode And Anode](#cathode-and-anode)
 - [Schematic Diagram](#schematic-diagram)
 - [Servomotor](#servomotor)
 - [Module](#module)
 - [Mechanism](#mechanism)
-- [Input and Output](#input-and-output)
-- [Sensors](#sensor)
-- [Baud Rate and Bandwidth](#baud-rate-and-bandwidth)
+- [Input And Output](#input-and-output)
+- [Sensor](#sensor)
+- [Baud Rate And Bandwidth](#baud-rate-and-bandwidth)
 - [Interfacing](#interfacing)
 - [Some Circuit Laws](#some-circuit-laws)
 
@@ -55,7 +55,7 @@ applications that require both processing functionality
 and agile, responsive interaction with digital,
 analog, or electromechanical components. <https://www.allaboutcircuits.com/technical-articles/what-is-a-microcontroller-introduction-component-characteristics-component/> 
 
-## Digital and Analog Signals 
+## Digital And Analog Signals 
 An `analog signal` is time-varying and generally bound
 to a range (e.g. +12V to -12V), but there is an infinite number
 of values within that continuous range. An analog signal 
@@ -70,7 +70,7 @@ data as a sequence of discrete values. A digital
 signal can only take on one value 
 from a finite set of possible values at a given time. <https://www.monolithicpower.com/en/analog-vs-digital-signal>
 
-## Transistor and Resistor
+## Transistor And Resistor
 Transistor, semiconductor device for amplifying,
 controlling, and generating electrical signals. Transistors 
 are the active components of integrated circuits, 
@@ -80,7 +80,7 @@ surfaces. Deeply embedded in almost everything
 electronic, transistors have become the nerve 
 cells of the Information Age. <https://www.britannica.com/technology/transistor>
       
-## Series and Parallel Circuits
+## Series And Parallel Circuits
 The basic idea of a “series” connection is that components are 
 connected end-to-end in a line to form a 
 single path through which current can flow.
@@ -91,7 +91,7 @@ of electrically common points, no matter how many components
 are connected. There are many paths for current flow, 
 but only one voltage across all components. <https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/what-are-series-and-parallel-circuits/>
 
-## Cathode and Anode
+## Cathode And Anode
 Cathode, negative terminal or electrode through 
 which electrons enter a direct current load, such as an 
 electrolytic cell or an electron tube, and the positive 
@@ -135,7 +135,7 @@ In engineering, a mechanism is a device that transforms
 input forces and movement into a desired set of output
 forces and movement. <https://en.wikipedia.org/wiki/Mechanism_(engineering)>
 
-## Input and Output
+## Input And Output
 An input device sends information to a computer 
 system for processing, and an output device reproduces 
 or displays the results of that processing. Input devices
@@ -150,7 +150,7 @@ electronic (the data is converted into electronic data),
 but some are more simple, such as a glass thermometer,
 which presents visual data. <https://www.fierceelectronics.com/sensors/what-a-sensor#:~:text=is%20a%20sensor%3F-,A%20sensor%20is%20a%20device%20that%20measures%20physical%20input%20from,thermometer%2C%20which%20presents%20visual%20data.>
 
-## Baud Rate and Bandwidth
+## Baud Rate And Bandwidth
 The baud rate is the rate at which information
 is transferred in a communication channel. Baud rate 
 is commonly used when discussing electronics that 
