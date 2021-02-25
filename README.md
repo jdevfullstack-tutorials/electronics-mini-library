@@ -102,6 +102,16 @@ are deposited at the anode.
 https://www.britannica.com/technology/anode
 
 - Schematic Diagram
+    - A schematic, or schematic diagram, is a 
+representation of the elements of a system using abstract,
+graphic symbols rather than realistic pictures. A schematic
+usually omits all details that are not relevant to the 
+information the schematic is intended to convey, and 
+may add unrealistic elements that aid comprehension...
+In an electronic circuit diagram, the layout of the 
+symbols may not resemble the layout in the circuit. 
+<https://www.analog.com/en/analog-dialogue/studentzone/studentzone-february-2017.html#>
+
 - Servomotor
 - Module
 - Mechanism
