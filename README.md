@@ -81,6 +81,26 @@ but only one voltage across all components.
 <https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/what-are-series-and-parallel-circuits/>
 
 - Cathode and Anode
+    - Cathode, negative terminal or electrode through 
+which electrons enter a direct current load, such as an 
+electrolytic cell or an electron tube, and the positive 
+terminal of a battery or other source of electrical 
+energy through which they return. This terminal corresponds
+in electrochemistry to the terminal at which reduction occurs.
+Within a gas discharge tube, electrons travel away from 
+the cathode, but positive ions (current carriers)
+travel toward the cathode.
+https://www.britannica.com/technology/cathode
+
+    - Anode, the terminal or electrode from which electrons
+leave a system. In a battery or other source of direct current 
+the anode is the negative terminal, but in a passive load it is
+the positive terminal. For example, in an electron tube electrons
+from the cathode travel across the tube toward the anode, 
+and in an electroplating cell negative ions 
+are deposited at the anode.
+https://www.britannica.com/technology/anode
+
 - Schematic Diagram
 - Servomotor
 - Module
