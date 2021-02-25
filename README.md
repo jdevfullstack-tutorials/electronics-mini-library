@@ -110,9 +110,14 @@ information the schematic is intended to convey, and
 may add unrealistic elements that aid comprehension...
 In an electronic circuit diagram, the layout of the 
 symbols may not resemble the layout in the circuit. 
-<https://www.analog.com/en/analog-dialogue/studentzone/studentzone-february-2017.html#>
+<https://en.wikipedia.org/wiki/Schematic>
 
 - Servomotor
+    -  Servo motors (or servos) are self-contained 
+electric devices that rotate or push parts 
+of a machine with great precision.
+<https://www.sciencebuddies.org/science-fair-projects/references/introduction-to-servo-motors>
+
 - Module
 - Mechanism
 - Input and Output
