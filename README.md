@@ -171,5 +171,16 @@ devices so that they can work together.
 <https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html>
  
 - Electrical & Electronic Circuit Laws
-- Electronics and Robotics
-- Wireless Sensors
+    - `Ohm's law` is the relationship between
+voltage, current, and resistance in a circuit. It is
+the most common (and most simple) formula used 
+in electronics. Ohm's law can be written in several ways, 
+all of which are commonly used.
+`Kirchhoff's circuit laws` tie Ohm's law into a 
+complete system. Kirchhoff's Current Law follows 
+the principle of conservation of energy. It states 
+that the total sum of all current flowing 
+into a node (or point) on a circuit is 
+equal to the sum of the current flowing 
+out of the node.
+<https://www.lifewire.com/basic-circuit-laws-818993#:~:text=Ohm's%20law%20is%20the%20relationship,simple)%20formula%20used%20in%20electronics.&text=Resistance%20is%20equal%20to%20the%20voltage%20across%20a%20resistor%20divided,R%3DV%2FI).>
