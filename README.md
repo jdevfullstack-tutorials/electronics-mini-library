@@ -42,8 +42,44 @@ analog, or electromechanical components.
 <https://www.allaboutcircuits.com/technical-articles/what-is-a-microcontroller-introduction-component-characteristics-component/> 
 
 - Digital and Analog Signals 
+    - An `analog signal` is time-varying and generally bound
+to a range (e.g. +12V to -12V), but there is an infinite number
+of values within that continuous range. An analog signal 
+uses a given property of the medium to convey the signal’s
+information, such as electricity moving through a wire. 
+In an electrical signal, the voltage, current, or frequency of 
+the signal may be varied to represent the information. Analog signals 
+are often calculated responses to changes in light, sound,
+temperature, position, pressure, or other physical phenomena.
+A `digital signal` is a signal that represents 
+data as a sequence of discrete values. A digital 
+signal can only take on one value 
+from a finite set of possible values at a given time.
+<https://www.monolithicpower.com/en/analog-vs-digital-signal>
+
 - Transistor and Resistor
+    - Transistor, semiconductor device for amplifying,
+controlling, and generating electrical signals. Transistors 
+are the active components of integrated circuits, 
+or “microchips,” which often contain billions of 
+these minuscule devices etched into their shiny 
+surfaces. Deeply embedded in almost everything 
+electronic, transistors have become the nerve 
+cells of the Information Age.
+<https://www.britannica.com/technology/transistor>
+      
 - Series and Parallel Circuits
+    - The basic idea of a “series” connection is that components are 
+connected end-to-end in a line to form a 
+single path through which current can flow.
+The basic idea of a “parallel” connection, on the other hand, 
+is that all components are connected across each other’s leads. 
+In a purely parallel circuit, there are never more than two sets 
+of electrically common points, no matter how many components 
+are connected. There are many paths for current flow, 
+but only one voltage across all components.
+<https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/what-are-series-and-parallel-circuits/>
+
 - Cathode and Anode
 - Schematic Diagram
 - Servomotor
