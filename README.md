@@ -12,6 +12,17 @@ system rather than a theoretical one.
 <https://www.interaction-design.org/literature/topics/prototyping>
      
 - Solderless Breadboard
+    - Solderless breadboards make prototyping simple. Breadboards 
+enables you to connect electronic components in thousands of ways 
+to produce working circuits without soldering or damaging your 
+circuit board — and you don't need additional tools. A breadboard 
+is made up of formed metal sockets firmly secured in a durable 
+plastic housing. The breadboard's grid pattern is a useful combination
+of isolated tie points serving as discrete points in the circuit as 
+well as a continuous bus structure that distributes
+power and provides common ground points.
+<https://www.circuitspecialists.com/solderless-breadboards>
+
 - Circuit Board
 - Microcontroller
 - Digital and Analog Signals 
