@@ -131,9 +131,45 @@ forces and movement.
 <https://en.wikipedia.org/wiki/Mechanism_(engineering)>
 
 - Input and Output
-- Sensors
+    - An input device sends information to a computer 
+system for processing, and an output device reproduces 
+or displays the results of that processing. Input devices
+only allow for input of data to a computer and output 
+devices only receive the output of data from another device.
+<https://www.computerhope.com/issues/ch001355.htm#:~:text=An%20input%20device%20sends%20information,the%20results%20of%20that%20processing.&text=Those%20signals%20are%20then%20interpreted,monitor%20as%20text%20or%20images.>
+
+- Sensor
+    - A sensor is a device that measures physical input
+from its environment and converts it into data that can be
+interpreted by either a human or a machine. Most sensors are 
+electronic (the data is converted into electronic data), 
+but some are more simple, such as a glass thermometer,
+which presents visual data. 
+<https://www.fierceelectronics.com/sensors/what-a-sensor#:~:text=is%20a%20sensor%3F-,A%20sensor%20is%20a%20device%20that%20measures%20physical%20input%20from,thermometer%2C%20which%20presents%20visual%20data.>
+
 - Baud Rate and Bandwidth
+    -  The baud rate is the rate at which information
+is transferred in a communication channel. Baud rate 
+is commonly used when discussing electronics that 
+use serial communication. In the serial port context,
+"9600 baud" means that the serial port is capable
+of transferring a maximum of 9600 bits per second.
+<https://www.setra.com/blog/what-is-baud-rate-and-what-cable-length-is-required-1>
+
+    - Bandwidth, in electronics, the range of frequencies
+occupied by a modulated radio-frequency signal, usually 
+given in hertz (cycles per second) or as a percentage 
+of the radio frequency.
+<https://www.britannica.com/technology/bandwidth>
+
 - Interfacing
+    - Interfacing is the method of connecting or linking 
+together one device, especially a computer or micro-controller
+with another allowing us to design or adapt the output 
+and input configurations of the two electronic 
+devices so that they can work together.
+<https://www.electronics-tutorials.ws/io/input-interfacing-circuits.html>
+ 
 - Electrical & Electronic Circuit Laws
 - Electronics and Robotics
 - Wireless Sensors
