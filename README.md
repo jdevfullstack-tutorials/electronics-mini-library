@@ -203,3 +203,10 @@ surfaces. Deeply embedded in almost everything
 electronic, transistors have become the nerve 
 cells of the Information Age. 
 <https://www.britannica.com/technology/transistor>
+
+A resistor is an electrical component that limits
+or regulates the flow of electrical current in
+an electronic circuit. Resistors can also be
+used to provide a specific voltage for an 
+active device such as a transistor.
+<https://whatis.techtarget.com/definition/resistor>
